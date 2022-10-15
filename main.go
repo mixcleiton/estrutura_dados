@@ -1,7 +1,7 @@
 package main
 
-import "github.com/mixcleiton/estrutura_dados/pkg/testamenorpreco"
+import selectionsort "github.com/mixcleiton/estrutura_dados/pkg/selectionSort"
 
 func main() {
-	testamenorpreco.RunTestaMenorPreco()
+	selectionsort.RunOrdenacaoSimples()
 }
